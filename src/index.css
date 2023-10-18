@@ -23,3 +23,7 @@ a {
 a:hover {
   opacity: 1;
 }
+
+p {
+  color: #a9abb3;
+}
